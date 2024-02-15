@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # gostar
 # gostar
 # gostar
+# gostar_app
